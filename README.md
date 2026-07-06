@@ -33,50 +33,6 @@ I am an AI enthusiast focused on developing intelligent systems that solve pract
 * Building end-to-end Machine Learning applications
 * Interested in AI Product Engineering and Research
 
----
-
-## Technology Stack
-
-### Artificial Intelligence & Machine Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" />
-</p>
-
-### Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nodejs&perline=5" />
-</p>
-
-### Database & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,linux,vscode&perline=7" />
-</p>
-
----
-
-## Featured Projects
-
-### Sign Language Translator
-
-Real-time sign language recognition system leveraging Computer Vision and Convolutional Neural Networks to improve accessibility and communication.
-
-### AI Interview Assistant
-
-AI-powered interview preparation platform that provides personalized feedback and evaluation using advanced language models.
-
-### Resume Intelligence Platform
-
-Automated ATS scoring and resume analysis system powered by Natural Language Processing techniques.
-
-### Computer Vision Solutions
-
-Projects involving image classification, object detection, and intelligent visual recognition systems.
-
----
-
 ## Current Learning Roadmap
 
 ```text

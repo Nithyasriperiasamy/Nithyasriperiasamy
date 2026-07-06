@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Nithyasri Periyasamy 👋
 
-<!--
-**Nithyasriperiasamy/Nithyasriperiasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast;Generative+AI+Builder;Open+Source+Contributor" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Graduate
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI
+
+🔭 Currently building:
+- Sign Language Translator using CNN & OpenCV
+- AI Interview Assistant
+- Generative AI Applications
+
+🌱 Learning:
+- Agentic AI
+- RAG Systems
+- LLM Fine-tuning
+- MLOps
+
+💡 Interested in:
+- AI Product Engineering
+- Machine Learning Research
+- AI for Accessibility
+- Full Stack AI Development
+
+📫 Reach Me:
+- Email: nithyasriperiyasamy@gmail.com
+- LinkedIn: linkedin.com/in/nithyasri-p-78a0ab265
+
+---

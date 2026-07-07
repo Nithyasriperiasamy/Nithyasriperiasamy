@@ -56,9 +56,7 @@ MLOps                      ██████░░░░░░  60%
 
 ---
 
-## Professional Philosophy
 
-> "The best AI solutions are not the most complex ones—they are the ones that create meaningful impact."
 
 ---
 
@@ -66,6 +64,6 @@ MLOps                      ██████░░░░░░  60%
 
 ### Let's Build Something Intelligent
 
-⭐ Explore my repositories and connect with me to discuss AI, Machine Learning, and emerging technologies.
+
 
 </div>
